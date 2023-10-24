@@ -80,7 +80,7 @@ const menuStyles = StyleSheet.create({
     backgroundColor: "#F4CE14",
     paddingHorizontal: 20,
     paddingVertical: 10,
-    alignItems: "center",
+    alignItems: "flex-start",
   },
   sectionHeader: {
     color: "black",
